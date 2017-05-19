@@ -14,7 +14,7 @@ The main trait is Iterable, which is the supertrait of both mutable and immutabl
 
 Sequences, classes that inherit from trait Seq, let you work with groups of data lined up in order. Because the elements are ordered, you can ask for the first element, second element, 103rd element, and so on.
 
-scala.collection.==immutable==
+scala.collection.*immutable*
 
 ![<image not found>](http://www.scala-lang.org/docu/files/collections-api/collections.immutable.png)
 
